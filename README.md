@@ -1,5 +1,17 @@
 <h1 align="center">Hi, I'm Su</h1>
 
+
+I'm a senior CS undergrad at GT, focusing on Intelligence and Theory. 
+
+## 🔨 Stack 
+🐍 Python Stack
+- Machine Learning: TensorFlow, Scikit-learn
+- Data Science: Pandas, Numpy
+- Demo: Matplotlib, Seaborn
+
+Development
+- AWS, Docker
+
 <!--
 **sutimurturkan/sutimurturkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
