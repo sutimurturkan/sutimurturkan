@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Su</h1>
 
 
-I'm a senior CS undergrad at GT, focusing on Intelligence and Theory. 
+I'm a recent graduate from Georgia Tech, focusing on Intelligence and Theory. 
 
 
 <!--
