@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Su</h1>
 
 
-I develop software. 
+I'm a software engineer with a background in ML and theoretical mathematics, and experience in cloud development and embedded systems. Ask me about anything!
 
 
 <!--
